@@ -11,3 +11,9 @@ sudo apt install -y libkms++-dev libfmt-dev libdrm-dev # rpi-kms
 pip install -r requirements.txt
 
 ```
+
+3.Config Pi
+```
+sudo raspi-config
+```
+Interface Options -> I2C -> Enabled
