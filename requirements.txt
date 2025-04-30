@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+gpiod
+adafruit-circuitpython-ssd1306
+Pillow
+picamera2
+rpi-libcamera
+rpi-kms
+lgpio
